@@ -1,7 +1,7 @@
 # IT & Systems Administration Home Lab
 **Built by:** Darryl Briggs
 **Platform:** iMac 2017 · Intel Core i7 (4C/8T) · 48GB RAM · VirtualBox
-**Goal:** Goal: Build a practice environment that mirrors a real enterprise network — the servers, accounts, and connections an IT team keeps running every day — and use it to sharpen the hands-on skills behind IT support and systems administration.
+**Goal:** Build a practice environment that mirrors a real enterprise network — the servers, accounts, and connections an IT team keeps running every day — and use it to sharpen the hands-on skills behind IT support and systems administration.
 
 ---
 
