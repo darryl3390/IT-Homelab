@@ -1,4 +1,4 @@
-# Cybersecurity & IT Home Lab
+# IT & Systems Administration Home Lab
 **Built by:** Darryl Briggs
 **Platform:** iMac 2017 · Intel Core i7 (4C/8T) · 48GB RAM · VirtualBox
 **Goal:** Build a fully functional practice environment that replicates real enterprise IT and security infrastructure — hands-on skill-building in support of a career transition into IT and cybersecurity.
