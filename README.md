@@ -1,13 +1,13 @@
 # IT & Systems Administration Home Lab
 **Built by:** Darryl Briggs
 **Platform:** iMac 2017 · Intel Core i7 (4C/8T) · 48GB RAM · VirtualBox
-**Goal:** Build a fully functional practice environment that replicates real enterprise IT and security infrastructure — hands-on skill-building in support of a career transition into IT and cybersecurity.
+**Goal:** Goal: Build a practice environment that mirrors a real enterprise network — the servers, accounts, and connections an IT team keeps running every day — and use it to sharpen the hands-on skills behind IT support and systems administration.
 
 ---
 
 ## Why This Lab Exists
 
-I'm transitioning into IT and cybersecurity from a background in education and school building administration. That work involved managing systems, people, and risk at an operational level — but not the hands-on technical skills this field requires. Certifications prove knowledge — this lab proves application. Every VM, configuration, and exercise here is something I built, broke, troubleshot, and documented myself.
+I'm transitioning into IT support and systems administration from a background in education and school building administration. That work involved managing systems, people, and risk at an operational level — but not the hands-on technical skills this field requires. Certifications prove knowledge — this lab proves application. Every VM, configuration, and exercise here is something I built, broke, troubleshot, and documented myself.
 
 ---
 
